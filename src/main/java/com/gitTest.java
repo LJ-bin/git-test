@@ -7,5 +7,6 @@ public class gitTest {
         System.out.println("hello,jianbin");
         System.out.println("hello,binbin");
         System.out.println("hahhahahhah");
+        System.out.println("hihiihiihii");
     }
 }
